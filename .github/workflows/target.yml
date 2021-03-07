@@ -6,7 +6,7 @@ on:
       target:
         description: '请输入要编译的固件名称'
         required: true
-        default: 'N1'
+        default: 'K2P'
 
 jobs:
   build:
